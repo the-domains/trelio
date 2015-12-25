@@ -1,14 +1,8 @@
 layout_spectrum: 0.5319149
+typography_spectrum: 1
 color:
   saturation: 0.693617
   brandStrength: 0.09272431
   lightness: 0.7127659
   rhythmicContrast: 1
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-typography_spectrum: 0.1549888
 name: Trelio
